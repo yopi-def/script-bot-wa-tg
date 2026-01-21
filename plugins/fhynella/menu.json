@@ -1,0 +1,59 @@
+{
+  "layout": "fancy",
+  "buttons": false,
+  "order": [
+    "game",
+    "tools",
+    "panel",
+    "down",
+    "user",
+    "ai",
+    "pvp",
+    "list",
+    "info",
+    "atlantic",
+    "owner",
+    "youtube",
+    "other"
+  ],
+  "profileLabels": {
+    "user": "⎫ Users : @{data}",
+    "role": "⎫ Role  : {data}",
+    "level": "⎭ Level : Lv.{data}"
+  },
+  "styles": {
+    "fancy": {
+      "header": "`⪼┈╼╼╾╼𓊈 FHIIYA 𓊉╾╼╾╾┈⪻`",
+      "profileHeader": "`⪼┈╼╼╾╼𓊈 PROFIL 𓊉╾╼╾╾┈⪻`",
+      "commandTitle": "*𝜗ৎ List Feature*",
+      "categoryTitle": "*𝜗ৎ Feature {name}*",
+      "commandPrefix": "> ≔ {prefix}{cmd}",
+      "barrierHeader": "────────────────────"
+    }
+  },
+  "emojiMap": {
+    "game": "🎮",
+    "tools": "🛠️",
+    "panel": "⚙️",
+    "down": "📥",
+    "user": "👤",
+    "ai": "🤖",
+    "pvp": "⚔️",
+    "list": "📋",
+    "info": "ℹ️",
+    "atlantic": "🌊",
+    "owner": "👑",
+    "youtube": "📺",
+    "other": "📦"
+  },
+  "mediaSources": [
+    [
+      "./utils/media/image/menu",
+      "image/png"
+    ],
+    [
+      "./utils/media/image/menu2",
+      "application/pdf"
+    ]
+  ]
+}

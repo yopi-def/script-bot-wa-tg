@@ -1,0 +1,67 @@
+{
+  "telegram": {
+    "owner_username": "arifyev",
+    "owner": ["7967318583"],
+    "setting": {
+      "public": true,
+      "token": "YOUR_TOKEN_HERE"
+    }
+  },
+  "whatsapp": {
+    "owner_name": "Arvyn Farizal",
+    "owner": [
+      "6287895943737",
+      "628154067543",
+      "628217620233"
+    ],
+    "setting": {
+      "public": true,
+      "session": "session",
+      "costume_pairing": "FHYNELLA",
+      "auto_reject_call": {
+        "status": true,
+        "title": "📵 Panggilan Ditolak Otomatis",
+        "text": "Hai, terima kasih sudah menghubungi. Maaf, Nomor ini menggunakan sistem bot, jadi panggilan telepon atau video tidak bisa diterima.",
+        "footer": "from Yopi Ahmad Afrizal",
+        "url_whatsapp": "https://wa.me/qr/P37PJBEV7PUZG1"
+      },
+      "incoming_message_notification": true
+    },
+    "sticker": {
+      "p": "made with bots",
+      "a": "ig: @arvyn.ev"
+    },
+    "jid": {
+      "no": "628217620233@s.whatsapp.net",
+      "gc": "120363404826986472@g.us",
+      "ch": "120363401330491821@newsletter",
+      "ch_name": "Reze Codes --"
+    },
+    "url": {
+      "img1": "https://raw.githubusercontent.com/yopi-def/database/refs/heads/main/picture/f591bcf5fa9d22b3bea8d3131bee6ff5.jpg"
+    }
+  },
+  "bot": {
+    "name": "Fhiya",
+    "name_full": "Fhiya Frinella",
+    "footer": "© fhynella - 2025"
+  },
+  "backup": {
+    "once_minute_backup": 30,
+    "github": {
+      "username": "YOUR_USERNAME_HERE",
+      "repositories": "YOUR_REPO_HERE",
+      "github_token": "YOUR_TOKEN_HERE",
+      "filePath": [
+        {
+          "local": "./database/options/users.json",
+          "repo": "backup/botv2/database/options/users.json"
+        },
+        {
+          "local": "./database/options/game.json",
+          "repo": "backup/botv2/database/options/game.json"
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "pterodactyl": [
+    {
+      "name": "NodeJs",
+      "options": "v1",
+      "url": "https://panel-16c8.arvyn.web.id",
+      "ptla": "ptla_lC6Qb5G9xslTR7n514G7iPBn3xIQlhLShjYGVzlRlL8",
+      "format_email": "@gmail.com",
+      "location": 1,
+      "nests": 5,
+      "eggs": 15,
+      "setting": {
+        "allocation": 0,
+        "database": 1,
+        "backup": 1
+      },
+      "environment": {
+        "INST": "npm",
+        "USER_UPLOAD": "0",
+        "AUTO_UPDATE": "0",
+        "CMD_RUN": "npm start"
+      }
+    }
+  ],
+  "pterodactyl_options": "v1"
+}
